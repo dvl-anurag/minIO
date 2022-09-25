@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "multiTask": "no",
+    "task": "MRL ENGINE CALL",
+    "taskGroupId": "b39d3d99-17a8-4639-b811-21165f7e09b4",
+    "txLabel": "1606737903194",
+    "processName": "CSPi NG India",
+    "processId": "7d299542-de7e-40e0-b300-d32639a1ebb7",
+    "requestId": "1b189e23-cd97-4834-bb2c-2ecc15361aa8",
+    "requestDate": "2020-11-30T12:15:35.523-0500",
+    "version": "2.1.0",
+    "attempt": "1",
+    "requestAuthToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJtdGVpZFwiOlwiOGI3NGQ0NGMtMDU5MC00MDdjLThiZDgtNjFkM2FkN2Y2ZjM5XCIsXCJ1c2VySWRcIjpcIjc1MDZkMGY4LTUxMjItNDZiMy04NWRlLTQ2NGMwOThjYThiYlwiLFwiYXBwU2Vzc2lvbklkXCI6XCJlMGZlODQ0ZC04ZDFmLTRiZTctYjNkZi0yYmQ0ZWVmZGRiOGJcIixcInByb2plY3RJZFwiOlwicHJvamVjdElkXCIsXCJwcm9qZWN0VmVyc2lvbklkXCI6XCJwcm9qZWN0VmVyc2lvbklkXCIsXCJVU0VSX05BTUVcIjpcIk5pdGh5YSBKYWdhbmF0aFwiLFwiZXh0ZXJuYWxUb2tlblwiOlwibnVsbFwifSIsImV4cCI6MTYwNjc5MTA4NH0.qLzbkaYkWbsaM2uyXrXKsQ50DS02G9tv1bh9qnzWqajr36WwJWVoj6soa3v0sbKn5nXhKl1kk7aFHtF7y6vomQ",
+    "stageId": "c33f41b4-8c63-4547-9fe3-2696b403b010"
+  },
+  "data": [
+    {
+      "taskName": "MRL ENGINE CALL",
+      "taskId": "b39d3d99-17a8-4639-b811-21165f7e09b4",
+      "taskBy": "CP",
+      "taskSerialNo": 1,
+      "result": {
+        "ComponentScoping": [
+          {
+            "caseReference": {
+              "clientId": "2be41f62-2da3-4bb1-8cca-2740a2d144b1",
+              "sbuId": "75b7dadc-8aef-45a9-a591-ee1f75462d86",
+              "crnCreatedDate": "2020-11-30",
+              "packageId": "13ab1f02-0e93-408a-8af9-6eff94bbf881",
+              "crnNo": "R276-6757068-WEST-2020",
+              "scrnCreatedDate": null,
+              "caseNo": "1606737903194",
+              "caseUUID": "9a87ccd3-2043-48ac-85a9-b07cfcf2476f",
+              "caseType": "MDE"
+            },
+            "clientSpecificFields": {
+              "Client POC": "NA",
+              "I verify - Client portal case or offline case": "NA",
+              "HCL case date": "2020-11-05",
+              "CTS request ID": "NA",
+              "Project ID": "NA",
+              "Employee ID": "NA",
+              "CTS Associate ID": "NA",
+              "HiringManagerName": "NA",
+              "PO Number": "NA",
+              "Account Name": "NA",
+              "Department": "NA",
+              "Requestor Name": "NA",
+              "Cost Centre": "NA",
+              "Date of joining": "2020-11-05",
+              "Division": "NA",
+              "Identity Document": "NA",
+              "Date of Request": "NA",
+              "BGV ID-Pre/Post/Existing": "NA",
+              "Candidate Identification Number": "NA",
+              "JRNumber": "NA",
+              "Position": "NA",
+              "Candidate ID": "NA",
+              "requestoremail": "NA",
+              "Request ID": "NA",
+              "Tennessee Stopped date": "NA",
+              "Project Name": "NA",
+              "Hiring Country": "NA",
+              "SR No": "NA",
+              "Date of Re-initiation": "NA",
+              "Initiator Name": "NA"
+            },
+            "caseMoreInfo": {},
+            "caseDetails": {
+              "Type of Check": "",
+              "Package Name": "S288 Standard (30-Dec-11) SRTS288RPA",
+              "Request Status": "Completed",
+              "Contact Date": "",
+              "Do you have a date when we can contact the current or most recent employer for this Candidate?": "No",
+              "Case Origin": "NG_UI",
+              "Email To": "",
+              "Candidate's First Name": "Sophia",
+              "Official Email Address": "",
+              "Start Date": "2020-11-30",
+              "SRT": "",
+              "Remarks": "",
+              "Client Name(Full Business name)": "RPA Testing",
+              "Subject Type": "Candidate",
+              "Is Duplicate Case": true,
+              "SBU": "RPA Testing",
+              "LOA Submitted": "Yes",
+              "Personal Email Address": "",
+              "Candidate's Last Name": "Test Case",
+              "Package Type": "PACKAGE_TYPE",
+              "Subject Details to be Entered By": "FADV",
+              "Email Template": "",
+              "Client Cost Code": "12646526",
+              "Client Reference #": "",
+              "Candidate's Middle Name": "",
+              "Case Date": "2020-11-30",
+              "Date of Birth": "1995-12-13",
+              "Do you grant FADV persmission for checks to be undertaken with the current or most recent employer now?": "Yes",
+              "Candidate Auhorization Letter": ""
+            },
+            "SBU_NAME": "RPA Testing",
+            "CRNCreationDate": "2020-11-30",
+            "Package Name": "S288 Standard (30-Dec-11) SRTS288RPA",
+            "CASE_NUMBER": "1606737903194",
+            "CLIENT_NAME": "RPA Testing",
+            "Components": [
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Personal Information",
+                "Component name": "Personal Information",
+                "Records": [
+                  {
+                    "Candidate name": "NA Test Case",
+                    "Personal Mobile No ": "8553862600",
+                    "Identification Submitted": "PAN Card",
+                    "First Name": "",
+                    "Middle Name": "NA",
+                    "Gender": "Female",
+                    "Doc Identification No": "BHGDS5656M",
+                    "Marital Status": "Married",
+                    "Nationality": "India",
+                    "documentSource": [
+                      {
+                        "associated": true,
+                        "section": "Personal Details (As per BVF)",
+                        "type": "bvf"
+                      }
+                    ],
+                    "Home phone": "8553862600",
+                    "DOB": "1995-12-13",
+                    "Is the document clear?": "Good",
+                    "Professional Email ID": "Sophia@fadv.com",
+                    "Personal Email ID": "Sophia@gmail.com",
+                    "INSTRUCTION_CHECK_ID": 1,
+                    "ruleResult": {
+                      "result": [
+                        "Include"
+                      ],
+                      "success": true,
+                      "message": "SUCCEEDED",
+                      "status": 200
+                    },
+                    "Father’s Name": "Mr. Jerome",
+                    "Last Name": "Test Case",
+                    "multiEngineResults": {
+                      "suspectResult": "",
+                      "cbvutvi4vResult": " ",
+                      "wellknownResult": " ",
+                      "uniqueResult": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Court records",
+                "Component name": "Criminal",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Police checks",
+                "Component name": "Criminal",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Current Address - Physical Verification",
+                "Component name": "Address",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Permanent address - Physical Verification",
+                "Component name": "Address",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Previous address - Physical Verification",
+                "Component name": "Address",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Education (Highest Qualification)",
+                "Component name": "Education",
+                "Records": [
+                  {
+                    "Aka Name": "JSS University Mysore",
+                    "Completed/Pursuing": "Completed",
+                    "University Location (State)": "Karnataka",
+                    "Period of Study (To)": "",
+                    "University City": "Mysore",
+                    "University(Country)": "India",
+                    "College Name": "",
+                    "Unique Number": "CDCD54545",
+                    "Result": "Pass",
+                    "Year of Passing": "",
+                    "Specialization": "",
+                    "Is the document clear?": "Good",
+                    "Regular or Correspondence": "Regular",
+                    "University Name": "JSS University",
+                    "College/Centre Name Aka Name": "",
+                    "Part time or full time": "Full time",
+                    "College(Country)": "",
+                    "College City": "",
+                    "Qualification/course name": "Post Graduate Diploma",
+                    "Period of Study (From)": "",
+                    "Qualification level": "Diploma",
+                    "documentSource": [
+                      {
+                        "associated": true,
+                        "section": "Education Detail (As per BVF)",
+                        "type": "bvf"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Degree Certificate",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Provisional Certificate",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Education Mark sheet (As per Document)",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Consolidated Mark Sheet",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Transcript",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Certificate",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Passing Certificate",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Group I",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Group II",
+                        "type": "supportingdocument"
+                      }
+                    ],
+                    "Grade/Class": "First",
+                    "University Aka Name": "JSS University Mysore",
+                    "Document issued Date": "",
+                    "Is this Professional Education": "Yes",
+                    "College Location (State)": "",
+                    "INSTRUCTION_CHECK_ID": 1,
+                    "ruleResult": {
+                      "result": [
+                        "Include"
+                      ],
+                      "success": true,
+                      "message": "SUCCEEDED",
+                      "status": 200
+                    },
+                    "Month of Passing": "",
+                    "Unique Number Type": "Convocation Number",
+                    "multiEngineResults": {
+                      "suspectResult": " ",
+                      "cbvutvi4vResult": " ",
+                      "wellknownResult": " ",
+                      "uniqueResult": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "Supervisor",
+                "Component name": "Employment",
+                "Records": []
+              },
+              {
+                "componentName": null,
+                "dbComponent": false,
+                "CANDIDATE_DE_COMPLETED_DT": "2020-11-30",
+                "PRODUCT": "HR",
+                "Component name": "Employment",
+                "Records": [
+                  {
+                    "Aka Name": "ANZ Operations and Technology Private Limited All Locations",
+                    "Entity Specific Type": "",
+                    "Supervisor's Email ID": "",
+                    "Company Aka Name": "ANZ Operations and Technology Private Limited All Locations",
+                    "Employee ID": "",
+                    "Third Party or Agency Name and Address": "",
+                    "Department": "Finance",
+                    "Date to be contacted": "",
+                    "Third Party Company": "",
+                    "Third party Company(city)": "",
+                    "HR Name": "",
+                    "Employment Type": "Full-Time",
+                    "Date Of Exit (Till Date)": "",
+                    "Date of joining": "2018-10-12",
+                    "Entity Specific ID": "",
+                    "Reason for Leaving": "Better Opportunity",
+                    "Supervisor Name": "",
+                    "Supervisor's Contact No": "",
+                    "Company Contact No": "",
+                    "Date of Exit": "2019-02-24",
+                    "Supervisor Designation": "",
+                    "Self employment/Family business": "NA",
+                    "Designation": "Manager",
+                    "Reason For Gap": "NA",
+                    "Can CE be contacted": "",
+                    "HR Contact No": "",
+                    "Is this Previous Employment linked to Current Employment": "No",
+                    "City": "-",
+                    "Remuneration": "INR 250,000",
+                    "Is this your Current Employment (CE)": "No",
+                    "Location Where the Candidate was deployed/Location Where the Candidate Worked": "",
+                    "documentSource": [
+                      {
+                        "associated": true,
+                        "section": "Employment Details (As per BVF)",
+                        "type": "bvf"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Employment - Service certificate/ Experience (As per Document)",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Employment - Relieving Letter (As per Document)",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Employment - Exit document on company letter  (As per Document)",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Employment - Resignation acceptance letter (As per Document)",
+                        "type": "supportingdocument"
+                      },
+                      {
+                        "associated": false,
+                        "section": "Employment - Pay Slip (As per Document)",
+                        "type": "supportingdocument"
+                      }
+                    ],
+                    "Third party Company(Country)": "",
+                    "Company Name": "ANZ Group",
+                    "HR email ID": "",
+                    "State": "-",
+                    "Complete Company Address with Landmark": "",
+                    "Country": "",
+                    "Third party Company(state)": "",
+                    "INSTRUCTION_CHECK_ID": 1,
+                    "ruleResult": {
+                      "result": [
+                        "Include"
+                      ],
+                      "success": true,
+                      "message": "SUCCEEDED",
+                      "status": 200
+                    },
+                    "Nature of Employment": "Permanent",
+                    "Service Type": "Employment",
+                    "multiEngineResults": {
+                      "suspectResult": "",
+                      "cbvutvi4vResult": " ",
+                      "wellknownResult": " ",
+                      "uniqueResult": ""
+                    }
+                  }
+                ]
+              }
+            ],
+            "CASE_UUID": "9a87ccd3-2043-48ac-85a9-b07cfcf2476f",
+            "Candidate_Name": "Sophia  Test Case",
+            "CLIENT_CODE": "R276",
+            "CASE_REF_NUMBER": "R276-6757068-WEST-2020",
+            "TYPE": "Case_Document",
+            "BaseEJCCountryList": null
+          }
+        ]
+      }
+    }
+  ]
+}
